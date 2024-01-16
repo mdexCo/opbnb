@@ -1,0 +1,54 @@
+{
+  "name": "MDEX BSC token List",
+  "timestamp": "2020-08-11T22:55:13.889Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "keywords": [
+    "MDEX",
+    "default",
+    "BSC"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped BNB",
+      "address": "0x86C903A969AfF6BC8cd4551Ec82419347d504bd6",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 204,
+      "whitelist" : true,
+      "logoURI": "https://mdex.co/token-icons/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Binance-Peg BUSD-T",
+      "address": "0x97BDdE227AF3dC1905FE01F892e7e5D1F5bA0788",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 204,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "Binance-Peg Ethereum Token",
+      "address": "0x5ADA3C639c664aa62D4dAFcA3356431D5aE73a14",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 204,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "Binance-Peg BTCB Token",
+      "address": "0x74A43B282Be374A3768D772fBd7313f51337fef3",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 204,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    }
+  ]
+}
