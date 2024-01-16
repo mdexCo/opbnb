@@ -16,7 +16,7 @@
   "tokens": [
     {
       "name": "Wrapped BNB",
-      "address": "0x86C903A969AfF6BC8cd4551Ec82419347d504bd6",
+      "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 204,
@@ -25,7 +25,7 @@
     },
     {
       "name": "Binance-Peg BUSD-T",
-      "address": "0x97BDdE227AF3dC1905FE01F892e7e5D1F5bA0788",
+      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
       "symbol": "USDT",
       "decimals": 18,
       "chainId": 204,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Binance-Peg Ethereum Token",
-      "address": "0x5ADA3C639c664aa62D4dAFcA3356431D5aE73a14",
+      "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 204,
@@ -43,7 +43,7 @@
     },
     {
       "name": "Binance-Peg BTCB Token",
-      "address": "0x74A43B282Be374A3768D772fBd7313f51337fef3",
+      "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
       "symbol": "BTCB",
       "decimals": 18,
       "chainId": 204,
