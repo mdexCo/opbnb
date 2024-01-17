@@ -49,6 +49,15 @@
       "chainId": 204,
       "whitelist" : true,
       "logoURI":  "https://mdex.co/token-icons/bsc/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    },
+    {
+      "name": "Binance-Peg FDUSD Token",
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "symbol": "FDUSD",
+      "decimals": 18,
+      "chainId": 204,
+      "whitelist" : true,
+      "logoURI":  "https://mdex.co/token-icons/opbnb/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png"
     }
   ]
 }
